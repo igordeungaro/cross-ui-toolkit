@@ -126,3 +126,12 @@ Information on how to get started can be found in our
 [platform channels]: https://docs.flutter.dev/platform-integration/platform-channels
 [interop example]: https://github.com/flutter/flutter/tree/main/examples/platform_channel
 [Impeller]: https://docs.flutter.dev/perf/impeller
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [flutter/flutter](https://github.com/flutter/flutter), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: BSD 3-Clause "New" or "Revised" License (mantida sem alterações).
+
+**Fonte original:** https://github.com/flutter/flutter
